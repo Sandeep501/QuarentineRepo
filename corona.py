@@ -17,3 +17,4 @@ deaths=data['deaths']
 print('As of {0} confirmed Corona cases in India are {1}'.format(date,confirmed))
 
 print('out of this {0} were recovered and {1} are dead'.format(recovered,deaths))
+# made some change
